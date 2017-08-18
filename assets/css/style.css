@@ -197,14 +197,14 @@ body {
 		position: relative;
 		margin: 5%;
 		border-top:;
-		border-top: 5px solid orangered;
+		border-top: 5px solid #8d8d8d;
 		box-shadow: 15px 15px 10px rgba(0,0,0, .8);
 		border-radius: 10px;
 		}
 
 	.box-image-text {
 		color: white;
-		background: orangered;
+		background: #008fcc;
 		text-align: center;
 		font-weight: bold;
 		position: absolute;
